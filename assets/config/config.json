@@ -1,0 +1,48 @@
+{
+  "platforms": {
+    "50": [
+      {
+        "weight": 10,
+        "value": "breakable"
+      },
+      {
+        "weight": 1000,
+        "value": "normal"
+      }
+    ],
+    "100": [
+      {
+        "weight": 10,
+        "value": "breakable"
+      },
+      {
+        "weight": 100,
+        "value": "normal"
+      }
+    ],
+    "150": [
+      {
+        "weight": 10,
+        "value": "breakable"
+      },
+      {
+        "weight": 50,
+        "value": "normal"
+      }
+    ],
+    "200": [
+      {
+        "weight": 10,
+        "value": "breakable"
+      },
+      {
+        "weight": 10,
+        "value": "floating"
+      },
+      {
+        "weight": 50,
+        "value": "normal"
+      }
+    ]
+  }
+}
